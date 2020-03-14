@@ -11,6 +11,7 @@ skipped_controls = %w(
   xccdf_org.cisecurity.benchmarks_rule_1.1.9_Ensure_nosuid_option_set_on_vartmp_partition
   xccdf_org.cisecurity.benchmarks_rule_1.4.2_Ensure_bootloader_password_is_set
   xccdf_org.cisecurity.benchmarks_rule_1.8_Ensure_updates_patches_and_additional_security_software_are_installed
+  xccdf_org.cisecurity.benchmarks_rule_2.2.2_Ensure_X_Window_System_is_not_installed
   xccdf_org.cisecurity.benchmarks_rule_3.4.3_Ensure_etchosts.deny_is_configured
   xccdf_org.cisecurity.benchmarks_rule_3.6.2_Ensure_default_deny_firewall_policy
   xccdf_org.cisecurity.benchmarks_rule_3.6.5_Ensure_firewall_rules_exist_for_all_open_ports
