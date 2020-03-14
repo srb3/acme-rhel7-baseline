@@ -1,0 +1,14 @@
+name: acme-rhel7-baseline
+title: acme-rhel7-baseline
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: A wrapper profile that inherits from cis-rhel7-level1-server
+version: 0.1.0
+supports:
+  platform-name: redhat
+  release:  7.*
+depends:
+- name: cis-rhel7-level1-server
+  compliance: admin/cis-rhel7-level1-server
